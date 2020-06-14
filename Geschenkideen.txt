@@ -1,3 +1,5 @@
 Fahrrad
 Ball
 Flugzeug
+Kerze
+Blumen
