@@ -3,3 +3,6 @@ Ball
 Flugzeug
 Kerze
 Blumen
+Tennisschläger
+Boot
+Drachen
